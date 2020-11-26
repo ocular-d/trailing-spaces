@@ -1,0 +1,9 @@
+name: Find Trailing Whitespace In Markdown
+author: 'ocular-d'
+branding:
+  icon: 'search'
+  color: 'green'
+description: Find trailing whitespace in Markdown
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
