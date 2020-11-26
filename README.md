@@ -55,7 +55,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ocular-d/trailing-whitespace@master
+      - uses: ocular-d/trailing-spaces@main
 ```
 
 ## Contributing
